@@ -108,3 +108,7 @@ button_clear.grid(row=6, column=2)
 
 
 root.mainloop()
+
+
+if __name__ == "__main__":
+    main()
