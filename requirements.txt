@@ -1,0 +1,2 @@
+tkinter(preincluded w/ python)
+python
